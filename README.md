@@ -8,4 +8,5 @@ The customers can find the nearest store or pickup station to pick up their orde
 This module is highly customizable. The admin can show the distance, contact number, and store pickup delivery timing also. The Pickup module offers a user-friendly interface. The admin can easily configure this PrestaShop addon and offers multi-lingual compatibility.
 Pickup module also help you to create more zones and assign the zones to countries. This allows each country to have more zones on them. Can also assign stores/pickup stations to those zones.
 
-![](https://faddons.com/media/com_eshop/products/resized/picup1-max-1080x1080.jpeg)
+![](https://faddons.com/media/github/pickup.jpg)
+![](https://faddons.com/media/github/pickup.gif)
