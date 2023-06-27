@@ -1,0 +1,2 @@
+# pickup
+The Pickup displays a store locator or pickup stations on the website or checkout as an alternative of shipping. The e-merchant allows the customers to find the store or pickup station availability. The customers can find the nearest store or pickup station to pick up their orders. The pickup module allows the admin to provide a pickup option to the customers as an alternative shipping method. The e-merchant can show the store details on the Google map. The customers can also have driving directions.
