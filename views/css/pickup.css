@@ -1,0 +1,110 @@
+
+.delivery-options-list {
+	display:block;
+}
+
+#select_station {
+	color:green;
+	text-transform:uppercase;
+	cursor:pointer;
+}
+#change_station {
+	color:green;
+	text-transform:uppercase;
+	cursor:pointer;
+}
+#station-popup .filter {
+	padding-top:10px;
+}
+#stations {
+	padding-top:5px;
+}
+#stations h5 {
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:400;
+	margin-bottom:15px;
+}
+#stations .action {
+	text-align:center;
+	padding-top:15px;
+}
+#stations .action a.btn {
+	width:48%;
+}
+
+.pickup-container .delivery-time {
+	margin-bottom:10px;
+}
+.pickup-container .details {
+	margin-bottom:10px;
+}
+.pickup-container .details .name {
+	margin:0;
+}
+.pickup-container .details .info {
+	color:#787878;
+}
+.pickup-container .details .fee span {
+	color:green;
+}
+
+.store-list {
+	position:relative;
+	max-height:150px;
+	overflow-y: auto !important;
+	overflow-x: hidden !important;
+}
+.store-list .loading {
+	text-align:center;
+	padding:20px 0;
+}
+.store-list ul {
+	margin:0;
+	padding:0;
+}
+.store-list li {
+	margin:0 0 25px 0;
+}
+.store-list .selection {
+	margin:0 0 7px 0;
+}
+.store-list .item {
+	text-align:left;
+	color:#B6B6B6;
+	font-size:13px;
+	text-transform:lowercase;
+	line-height:18px;
+}
+.store-list .item .custom-radio {
+	margin-right:10px;
+}
+.store-list .item .name {
+	margin:0;
+}
+.store-list .item .name label {
+	font-size:16px;
+	font-weight:500;
+}
+.store-list .item label {
+	display:block;
+	font-weight:500;
+	text-align:left;
+	text-transform: capitalize;
+	color:#333;
+	margin-bottom:0;
+	font-size: 13px;
+}
+.store-list .item .contact {
+	margin-bottom:5px;
+}
+.store-list .item .working {
+	text-transform: capitalize;
+}
+
+@media screen and (max-width: 992px) { 
+#stations .action a.btn {
+	width:auto;
+	margin-bottom:10px;
+}
+}

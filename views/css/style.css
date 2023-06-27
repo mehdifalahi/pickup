@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/fa-regular-400.eot");
+  src: url("../fonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("../fonts/fa-regular-400.woff2") format("woff2"), url("../fonts/fa-regular-400.woff") format("woff"), url("../fonts/fa-regular-400.ttf") format("truetype"), url("../fonts/fa-regular-400.svg#fontawesome") format("svg"); }
+
+.far {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../fonts/fa-solid-900.eot");
+  src: url("../fonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../fonts/fa-solid-900.woff2") format("woff2"), url("../fonts/fa-solid-900.woff") format("woff"), url("../fonts/fa-solid-900.ttf") format("truetype"), url("../fonts/fa-solid-900.svg#fontawesome") format("svg"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }
+
+
+#storelocator .header {
+	display:block;
+	width:100%;
+}
+#storelocator .header .banner {
+	max-width:100%;
+	width:100%;
+	margin:0;
+}
+#storelocator .filter {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #f2f6f9;
+	padding: 20px 10px 10px;
+	border: 1px solid #e3f0f9;
+	border-radius: 2px;
+}
+
+#store {
+	position: relative;
+}
+#store .header {
+	background:#ECECEC;
+	padding:20px 15px;
+}
+#store .name {
+	text-align:center;
+	font-size:18px;
+	font-weight:400;
+	margin-bottom:40px;
+}
+#store .block .picon i {
+	font-size:21px;
+	color:#333;
+}
+#store .block .pdata {
+	color:#333;
+}
+#store .block .pdata a {
+	color:#333;
+}
+#store .openstore {
+	color: #61973E;
+}
+#store .desc {
+	padding:15px 0;
+}
+#store .desc .img img {
+	max-width:100%;
+}
+#store .desc h4 {
+	text-align:center;
+	padding-bottom:10px;
+}
+#store .website {
+	padding-bottom:5px;
+}
+#store .email {
+	padding-bottom:5px;
+}
+#store .social {
+	padding-top:10px;
+}
+#store .social ul {
+	margin:0;
+	padding:0;
+}
+#store .social ul li {
+	display:inline-block;
+	margin-right:12px;
+	cursor:pointer;
+}
+#store .social ul li img {
+	height:28px;
+}
+#store .hours {
+	padding-top:25px;
+}
+#mapstore {
+	width:100%;
+	height:300px;
+}
