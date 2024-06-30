@@ -10,3 +10,5 @@ Pickup module also help you to create more zones and assign the zones to countri
 
 ![](https://faddons.com/media/github/pickup.jpg)
 ![](https://faddons.com/media/github/pickup.gif)
+
+<meta name="google-site-verification" content="hf8sNTnFfaLCdZvTxcjoM4KqGbQfKhYHGUYkIbxmKdE" />
